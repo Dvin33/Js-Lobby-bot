@@ -1,0 +1,19 @@
+{
+    "cid": "Character_PinkTrooperDark",
+    "eid": "EID_wave",
+    "bid": "BID_138_Celestial",
+    "pid": "Pickaxe_Lockjaw",
+    "banner": "Otherbanner28",
+    "banner_color": "defaultcolor2",
+    "level": "275",
+    "bp_tier": "999",
+    "platform": "PSN",
+    "crown_wins": "80",
+    "prefix": "!",
+    "PartyPrivacy": "Public",
+    "friendaccept": "True",
+    "joinoninvite": "False",
+    "FullAccess": [
+        ""
+    ]
+}
